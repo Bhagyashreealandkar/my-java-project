@@ -11,7 +11,7 @@ public class ifElse {
      Scanner scanner = new Scanner(System.in);
 
      // Ask the user for their age
-     System.out.print("Enter your age:     ");
+     System.out.print("Enter your age:        ");
      int age = scanner.nextInt();  // Read age from user
 
      // Check if the user is 18 or older
